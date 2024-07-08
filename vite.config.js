@@ -1,3 +1,3 @@
 export default {
-    base: "/witzee/",
+    base: "/selbWitz/",
 };
